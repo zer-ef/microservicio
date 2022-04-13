@@ -1,0 +1,5 @@
+package com.carro.service.entity;
+
+public class Carro {
+
+}
